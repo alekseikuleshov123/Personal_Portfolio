@@ -52,6 +52,10 @@ main {
     margin: auto 30px;
 }
 
+#technical-skills-icons i:hover {
+    color: blue;
+}
+
 #contact-me-icons {
     display: flex;
     text-align: left;
